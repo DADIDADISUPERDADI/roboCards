@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DADIDADISUPERDADI/roboCards/static/css/main.177c7d06.chunk.css",
+    "main.js": "/DADIDADISUPERDADI/roboCards/static/js/main.8cdff085.chunk.js",
+    "main.js.map": "/DADIDADISUPERDADI/roboCards/static/js/main.8cdff085.chunk.js.map",
+    "runtime-main.js": "/DADIDADISUPERDADI/roboCards/static/js/runtime-main.68864dc6.js",
+    "runtime-main.js.map": "/DADIDADISUPERDADI/roboCards/static/js/runtime-main.68864dc6.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/DADIDADISUPERDADI/roboCards/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.265c2fbe.chunk.js": "/DADIDADISUPERDADI/roboCards/static/js/2.265c2fbe.chunk.js",
+    "static/js/2.265c2fbe.chunk.js.map": "/DADIDADISUPERDADI/roboCards/static/js/2.265c2fbe.chunk.js.map",
+    "index.html": "/DADIDADISUPERDADI/roboCards/index.html",
+    "precache-manifest.d3b1d2d91fcfe687af3dc996dca14916.js": "/DADIDADISUPERDADI/roboCards/precache-manifest.d3b1d2d91fcfe687af3dc996dca14916.js",
+    "service-worker.js": "/DADIDADISUPERDADI/roboCards/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/DADIDADISUPERDADI/roboCards/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.177c7d06.chunk.css.map": "/DADIDADISUPERDADI/roboCards/static/css/main.177c7d06.chunk.css.map",
+    "static/js/2.265c2fbe.chunk.js.LICENSE.txt": "/DADIDADISUPERDADI/roboCards/static/js/2.265c2fbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68864dc6.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.265c2fbe.chunk.js",
+    "static/css/main.177c7d06.chunk.css",
+    "static/js/main.8cdff085.chunk.js"
+  ]
+}
