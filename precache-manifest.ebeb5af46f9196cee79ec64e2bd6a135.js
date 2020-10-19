@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30c36544d706e3c5f72681d5b4bb811a",
+    "revision": "660b1b9d14786f2918001ac400255e95",
     "url": "/roboCards/index.html"
   },
   {
-    "revision": "9bcd2b8f1dcdc1b3006f",
+    "revision": "50d7deee29c579499fc6",
     "url": "/roboCards/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "48233ed72405d883c818",
+    "revision": "2ff76e4f9be52a79a552",
     "url": "/roboCards/static/css/main.177c7d06.chunk.css"
   },
   {
-    "revision": "9bcd2b8f1dcdc1b3006f",
-    "url": "/roboCards/static/js/2.265c2fbe.chunk.js"
+    "revision": "50d7deee29c579499fc6",
+    "url": "/roboCards/static/js/2.e204960b.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/roboCards/static/js/2.265c2fbe.chunk.js.LICENSE.txt"
+    "url": "/roboCards/static/js/2.e204960b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "48233ed72405d883c818",
-    "url": "/roboCards/static/js/main.90af85ac.chunk.js"
+    "revision": "2ff76e4f9be52a79a552",
+    "url": "/roboCards/static/js/main.7ec48e77.chunk.js"
   },
   {
     "revision": "dc7b3b195d80d0ea5d5a",
